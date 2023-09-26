@@ -139,5 +139,5 @@ Epoch 100/100
 ## Results
 The image below shows the results by comparing predictions with the original garbage labels. As can be seen, all images were correctly predicted. The image classfied as ```cardboard``` has the probability of ```99%```, ```glass 87%```, ```metal 99%```, ```paper 96%```, ```plastic 83%```, and ```trash with 98%```.
 
-![results](preview/prediction.png)
+![prediction](preview/prediction.png)
 
