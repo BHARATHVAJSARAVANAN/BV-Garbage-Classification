@@ -10,7 +10,7 @@ garbage recycling categories, which includes cardboard, glass, metal, paper, pla
 predicting garbage clases.
 * Dataset includes cardboard(393), glass(491), metal(400), paper(584), plastic(472), trash(127)
 
-![class-distribution](preview/class-distribution.png)
+![Home Page](preview/Home.png)
 
 ## Built with
 * Python
