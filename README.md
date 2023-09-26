@@ -119,6 +119,16 @@ Download PyCharm
    
 4. Now run app.py by writing command --> python app.py
 
+Download VScode
+
+1. Download Project code from github :
+   
+2. Open Garbage Classification Folder in VScode.
+   
+3. Open Terminal and Install requirements by typing (cd ProjectFolder) --> pip install -r requirements.txt
+   
+4. Now run app.py by writing command --> python app.py
+
 Garbage DATASET:https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
 Project Demo: linkedin
