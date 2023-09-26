@@ -72,49 +72,7 @@ Epoch 9/100
 39/39 [==============================] - 114s 3s/step - loss: 1.1830 - accuracy: 0.5331 - val_loss: 1.2118 - val_accuracy: 0.5328
 Epoch 10/100
 39/39 [==============================] - 115s 3s/step - loss: 1.1410 - accuracy: 0.5680 - val_loss: 1.1567 - val_accuracy: 0.5633
-Epoch 11/100
-39/39 [==============================] - 111s 3s/step - loss: 1.0802 - accuracy: 0.5895 - val_loss: 1.1705 - val_accuracy: 0.5508
-Epoch 12/100
-39/39 [==============================] - 120s 3s/step - loss: 1.0494 - accuracy: 0.5968 - val_loss: 1.1152 - val_accuracy: 0.5828
-Epoch 13/100
-39/39 [==============================] - 113s 3s/step - loss: 1.0081 - accuracy: 0.6212 - val_loss: 1.0743 - val_accuracy: 0.5992
-Epoch 14/100
-39/39 [==============================] - 113s 3s/step - loss: 0.9352 - accuracy: 0.6451 - val_loss: 1.0720 - val_accuracy: 0.6031
-Epoch 15/100
-39/39 [==============================] - 113s 3s/step - loss: 0.9265 - accuracy: 0.6480 - val_loss: 0.9482 - val_accuracy: 0.6492
-Epoch 16/100
-39/39 [==============================] - 123s 3s/step - loss: 0.8978 - accuracy: 0.6508 - val_loss: 0.8811 - val_accuracy: 0.6594
-Epoch 17/100
-39/39 [==============================] - 116s 3s/step - loss: 0.8919 - accuracy: 0.6630 - val_loss: 0.9417 - val_accuracy: 0.6562
-Epoch 18/100
-39/39 [==============================] - 112s 3s/step - loss: 0.8569 - accuracy: 0.6703 - val_loss: 1.0250 - val_accuracy: 0.6281
-Epoch 19/100
-39/39 [==============================] - 107s 3s/step - loss: 0.8740 - accuracy: 0.6594 - val_loss: 0.7927 - val_accuracy: 0.7070
-Epoch 20/100
-39/39 [==============================] - 107s 3s/step - loss: 0.7708 - accuracy: 0.7142 - val_loss: 1.0269 - val_accuracy: 0.6359
-Epoch 21/100
-39/39 [==============================] - 113s 3s/step - loss: 0.7675 - accuracy: 0.7142 - val_loss: 0.8798 - val_accuracy: 0.6812
-Epoch 22/100
-39/39 [==============================] - 114s 3s/step - loss: 0.7340 - accuracy: 0.7337 - val_loss: 0.7099 - val_accuracy: 0.7273
-Epoch 23/100
-39/39 [==============================] - 112s 3s/step - loss: 0.7216 - accuracy: 0.7389 - val_loss: 0.7620 - val_accuracy: 0.7039
-Epoch 24/100
-39/39 [==============================] - 107s 3s/step - loss: 0.7136 - accuracy: 0.7402 - val_loss: 0.7108 - val_accuracy: 0.7328
-Epoch 25/100
-39/39 [==============================] - 107s 3s/step - loss: 0.6637 - accuracy: 0.7487 - val_loss: 0.6667 - val_accuracy: 0.7563
-Epoch 26/100
-39/39 [==============================] - 116s 3s/step - loss: 0.6386 - accuracy: 0.7653 - val_loss: 0.6797 - val_accuracy: 0.7547
-Epoch 27/100
-39/39 [==============================] - 115s 3s/step - loss: 0.6293 - accuracy: 0.7605 - val_loss: 0.6554 - val_accuracy: 0.7578
-Epoch 28/100
-39/39 [==============================] - 115s 3s/step - loss: 0.6302 - accuracy: 0.7625 - val_loss: 0.6483 - val_accuracy: 0.7531
-Epoch 29/100
-39/39 [==============================] - 109s 3s/step - loss: 0.5667 - accuracy: 0.7905 - val_loss: 0.5988 - val_accuracy: 0.7805
-Epoch 30/100
-39/39 [==============================] - 114s 3s/step - loss: 0.5554 - accuracy: 0.7933 - val_loss: 0.5844 - val_accuracy: 0.7875
-......
-Epoch 90/100
-39/39 [==============================] - 113s 3s/step - loss: 0.0994 - accuracy: 0.9675 - val_loss: 0.0645 - val_accuracy: 0.9805
+....
 Epoch 91/100
 39/39 [==============================] - 105s 3s/step - loss: 0.0734 - accuracy: 0.9748 - val_loss: 0.1260 - val_accuracy: 0.9563
 Epoch 92/100
@@ -141,3 +99,22 @@ The image below shows the results by comparing predictions with the original gar
 
 ![Prediction](preview/Prediction.png)
 
+## How to run on your local host?
+
+Prerequisite: Download all files from Github Link
+
+Download PyCharm
+
+1. Create new environment using command --> conda create -n env_name python==3.10.2
+   
+2. Activate environment using command --> conda activate env_name
+   
+3. Install requirements by typing (cd ProjectFolder) --> pip install -r requirements.txt
+   
+4. Now run app.py by writing command --> python app.py
+
+Website Link: https://irrigreat.herokuapp.com/
+
+Garbage DATASET: [https://github.com/BHARATHVAJSARAVANAN/BV-Car-Price-Predictor/blob/master/quikr_car.csv](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
+
+Project Demo: https://www.youtube.com/watch?v=HHyqrIkoIvo
