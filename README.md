@@ -112,25 +112,7 @@ Epoch 29/100
 39/39 [==============================] - 109s 3s/step - loss: 0.5667 - accuracy: 0.7905 - val_loss: 0.5988 - val_accuracy: 0.7805
 Epoch 30/100
 39/39 [==============================] - 114s 3s/step - loss: 0.5554 - accuracy: 0.7933 - val_loss: 0.5844 - val_accuracy: 0.7875
-...
-Epoch 81/100
-39/39 [==============================] - 117s 3s/step - loss: 0.1054 - accuracy: 0.9647 - val_loss: 0.1378 - val_accuracy: 0.9484
-Epoch 82/100
-39/39 [==============================] - 113s 3s/step - loss: 0.1287 - accuracy: 0.9570 - val_loss: 0.1274 - val_accuracy: 0.9477
-Epoch 83/100
-39/39 [==============================] - 112s 3s/step - loss: 0.0775 - accuracy: 0.9744 - val_loss: 0.1195 - val_accuracy: 0.9641
-Epoch 84/100
-39/39 [==============================] - 113s 3s/step - loss: 0.0673 - accuracy: 0.9789 - val_loss: 0.1296 - val_accuracy: 0.9648
-Epoch 85/100
-39/39 [==============================] - 112s 3s/step - loss: 0.0942 - accuracy: 0.9691 - val_loss: 0.1535 - val_accuracy: 0.9477
-Epoch 86/100
-39/39 [==============================] - 119s 3s/step - loss: 0.1714 - accuracy: 0.9432 - val_loss: 0.1745 - val_accuracy: 0.9391
-Epoch 87/100
-39/39 [==============================] - 113s 3s/step - loss: 0.0874 - accuracy: 0.9695 - val_loss: 0.1272 - val_accuracy: 0.9570
-Epoch 88/100
-39/39 [==============================] - 115s 3s/step - loss: 0.1287 - accuracy: 0.9566 - val_loss: 0.2163 - val_accuracy: 0.9242
-Epoch 89/100
-39/39 [==============================] - 112s 3s/step - loss: 0.1223 - accuracy: 0.9533 - val_loss: 0.1298 - val_accuracy: 0.9578
+......
 Epoch 90/100
 39/39 [==============================] - 113s 3s/step - loss: 0.0994 - accuracy: 0.9675 - val_loss: 0.0645 - val_accuracy: 0.9805
 Epoch 91/100
@@ -157,7 +139,5 @@ Epoch 100/100
 ## Results
 The image below shows the results by comparing predictions with the original garbage labels. As can be seen, all images were correctly predicted. The image classfied as ```cardboard``` has the probability of ```99%```, ```glass 87%```, ```metal 99%```, ```paper 96%```, ```plastic 83%```, and ```trash with 98%```.
 
-![results](preview/results.png)
+![results](preview/prediction.png)
 
-## License
-This project is [MIT](LICENSE) Licensed
