@@ -9,7 +9,9 @@ garbage recycling categories, which includes cardboard, glass, metal, paper, pla
 * The CNN generated an accuracy score of ```92.96%``` which proved that this model has a potential to be used  a a tool for 
 predicting garbage clases.
 * Dataset includes cardboard(393), glass(491), metal(400), paper(584), plastic(472), trash(127)
-                               
+
+## Home Page
+
 ![Home Page](preview/Home.png)
 
 ## Built with
