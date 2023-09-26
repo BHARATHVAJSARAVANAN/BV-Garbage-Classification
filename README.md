@@ -94,6 +94,9 @@ Epoch 99/100
 Epoch 100/100
 39/39 [==============================] - 107s 3s/step - loss: 0.1040 - accuracy: 0.9659 - val_loss: 0.1078 - val_accuracy: 0.96
 
+## Garbage
+![Garbages](preview/Garbages.png)
+
 ## Results
 The image below shows the results by comparing predictions with the original garbage labels. As can be seen, all images were correctly predicted. The image classfied as ```cardboard``` has the probability of ```99%```, ```glass 87%```, ```metal 99%```, ```paper 96%```, ```plastic 83%```, and ```trash with 98%```.
 
@@ -113,8 +116,5 @@ Download PyCharm
    
 4. Now run app.py by writing command --> python app.py
 
-Website Link: https://irrigreat.herokuapp.com/
+Garbage DATASET:https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
-Garbage DATASET: [https://github.com/BHARATHVAJSARAVANAN/BV-Car-Price-Predictor/blob/master/quikr_car.csv](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
-
-Project Demo: https://www.youtube.com/watch?v=HHyqrIkoIvo
