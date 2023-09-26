@@ -121,7 +121,7 @@ Download PyCharm
 
 Download VScode
 
-1. Download Project code from github :
+1. Download Project code from github :https://github.com/BHARATHVAJSARAVANAN/BV-Garbage-Classification
    
 2. Open Garbage Classification Folder in VScode.
    
