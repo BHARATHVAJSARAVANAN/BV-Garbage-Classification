@@ -38,6 +38,7 @@ predicting garbage clases.
 * torchvisio.datasets
 * torchvision.transform
 * pandas
+* Flask
 
 ## Data Preprocessing
 Steps that were applied for the data preprocessing for all the images in the dataset. 
