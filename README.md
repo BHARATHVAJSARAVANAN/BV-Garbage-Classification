@@ -121,3 +121,5 @@ Download PyCharm
 
 Garbage DATASET:https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
+Project Demo: linkedin
+
