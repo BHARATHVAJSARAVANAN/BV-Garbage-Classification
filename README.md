@@ -1,12 +1,9 @@
-# Garbage Detection Based on Convolutional Neural Network
-Final project for an application of machine learning and deep learning course (ITC C508). The code has been made available as a reference if anyone would like to reproduce the results of this project.
+# Garbage Classification
 
-```Please cite this  project if this repository is useful for your research.```
+## Problem Definition
+The Garbage Classification System is an innovative project designed to revolutionize waste management by employing artificial intelligence and deep learning techniques. The system aims to address the critical issue of efficient garbage classification, enabling effective waste management and promoting environmental sustainability. Recycling trash is a crucial part of protecting our environment. Garbage must be divided into categories with similar recycling processes in order to enable the recycling process. The percentage of recycled waste can rise considerably if it is possible to separate domestic trash into several categories. Using the classes given, we trained the model in this notebook to categorize the input images and output the trash classification.
 
-Recycling trash is a crucial part of protecting our environment. Garbage must be divided into categories with similar recycling processes in order to enable the recycling process. The percentage of recycled waste can rise considerably if it is possible to separate domestic trash into several categories. Using the classes given, we trained the model in this notebook to categorize the input images and output the trash classification.
-
-## Project Overview
-![screenshot](preview/screenshot.png)
+## Project Objective
 * The objective of this study is to train the model to be able to predict the input images and classify it into one of the
 garbage recycling categories, which includes cardboard, glass, metal, paper, plastic, trash.
 * The CNN generated an accuracy score of ```92.96%``` which proved that this model has a potential to be used  a a tool for 
@@ -17,7 +14,7 @@ predicting garbage clases.
 
 ## Built with
 * Python
-* Jupyter Notebook
+* Google Colab
 
 ## Getting started
 To get the local copy of this repository, please run the following commands on your terminal:
