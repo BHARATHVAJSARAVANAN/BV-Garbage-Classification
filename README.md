@@ -94,6 +94,9 @@ Epoch 99/100
 Epoch 100/100
 39/39 [==============================] - 107s 3s/step - loss: 0.1040 - accuracy: 0.9659 - val_loss: 0.1078 - val_accuracy: 0.96
 
+## About
+![About](preview/About.png)
+
 ## Garbage
 ![Garbages](preview/Garbages.png)
 
